@@ -1,0 +1,110 @@
+type = menu
+
+customization-meta {
+  identifier = official_server
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  restart_on_load = false
+  name = bacccc
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Get 10% off ranks with the creator code%n%Naturaspell
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 30
+  width = 220
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 74259c4d-406a-46cf-9f92-120b1c510c931690554906681
+  y = -49
+  alignment = centered
+  height = 38
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = joinserver;aio.playcdu.co%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/Assets/All in one/j2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 143
+  width = 60
+  action = addbutton
+  actionid = a240935e-801a-4d31-8ef5-653182ed8a3f1690555438889
+  y = 6
+  backgroundnormal = config/fancymenu/Assets/All in one/j.png
+  height = 19
+}
+
+customization {
+  orientation = mid-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"serverstatus","values":{"ip":"aio.playcdu.co"}}&r {"placeholder":"serverplayercount","values":{"ip":"aio.playcdu.co"}} {"placeholder":"serverping","values":{"ip":"aio.playcdu.co"}}ms
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 40
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 81224d6b-476d-4120-9c9b-2d466b3aea901690556415930
+  y = -12
+  alignment = centered
+  height = 18
+}
+
+customization {
+  orientation = mid-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = {"placeholder":"servermotd","values":{"ip":"aio.playcdu.co","line":"1"}}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 40
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = d6b592ec-d535-4ef3-bfcc-fb82b9cca3881690557645154
+  y = 28
+  alignment = centered
+  height = 40
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/Assets/All in one/back2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 77
+  width = 60
+  action = addbutton
+  actionid = 57bd4207-01e6-4f77-950a-f0da8c1029ce1690796794169
+  y = 6
+  backgroundnormal = config/fancymenu/Assets/All in one/back.png
+  height = 19
+}
+

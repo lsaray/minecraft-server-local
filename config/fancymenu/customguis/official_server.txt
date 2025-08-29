@@ -1,0 +1,3 @@
+identifier = official_server
+title = 
+allowesc = true

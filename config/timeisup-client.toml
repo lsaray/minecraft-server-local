@@ -1,0 +1,13 @@
+
+[Configs]
+	#Offset position of the timer on the screen.
+	#Format : 'x:y'.
+	offset = "5:-5"
+	#Position of the timer on the screen.
+	#0 : top-left
+	#1 : top-right
+	#2 : bottom-left
+	#3 : bottom-right
+	#Range: 0 ~ 3
+	position = 2
+

@@ -1,0 +1,339 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  restart_on_load = false
+  name = bacccc
+  action = animatebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 75
+  action = movebutton
+  y = -3
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 158
+  action = resizebutton
+  height = 25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\Assets\All in one\m2.png
+  backgroundnormal = config\fancymenu\Assets\All in one\m.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 75
+  action = movebutton
+  y = 53
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 77
+  action = resizebutton
+  height = 26
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\Assets\All in one\st2.png
+  backgroundnormal = config\fancymenu\Assets\All in one\st.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 156
+  action = movebutton
+  y = 53
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 77
+  action = resizebutton
+  height = 26
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\Assets\All in one\q1.png
+  backgroundnormal = config\fancymenu\Assets\All in one\q.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 75
+  action = movebutton
+  y = -32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 158
+  action = resizebutton
+  height = 25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\Assets\All in one\s2.png
+  backgroundnormal = config\fancymenu\Assets\All in one\s.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-left
+  x = 75
+  action = movebutton
+  y = 16
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 77
+  action = resizebutton
+  height = 25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\fancymenu\Assets\All in one\st2.png
+  backgroundnormal = config\fancymenu\Assets\All in one\st.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 0213e60f-ec7f-4441-8d03-0e36fcaa1af21674998899826
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 987697f1-68a6-4e34-a1fd-822bffc738481674998899830
+  y = 297
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 5c06589a-9437-48bb-9cf5-9546f1474d371674998899831
+  y = 319
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = d73b9f7e-da20-411c-85bc-fdccdbfdc3191674998899831
+  y = 184
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 608728f2-ee15-41c7-a53a-d8fadb3c5a181674998899831
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = fbf914e4-6b55-4549-b416-120d1c90868f1674998899831
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://BisectHosting.com/all-in-one?r=allinone+pack%btnaction_splitter_fm%
+  backgroundhovered = config\fancymenu\Assets\All in one\b2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 75
+  width = 158
+  action = addbutton
+  actionid = f0d8f087-78c5-4031-9fa9-fd719298785c1650478766120
+  y = 82
+  backgroundnormal = config\fancymenu\Assets\All in one\b.png
+  height = 25
+}
+
+customization {
+  path = config/fancymenu/Assets/All in one/lolo.png
+  orientation = mid-left
+  x = 111
+  width = 85
+  action = addtexture
+  actionid = 67a3854c-abf4-4d60-a912-5238ae7ac4b11650478966936
+  y = -119
+  height = 75
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui;official_server%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/Assets/All in one/o2.png
+  label = 
+  loopbackgroundanimations = true
+  x = 75
+  width = 158
+  action = addbutton
+  actionid = c7208734-5a1a-4fa8-85f5-c42a23138a041690554352131
+  y = 25
+  backgroundnormal = config/fancymenu/Assets/All in one/o.png
+  height = 25
+}
+
+customization {
+  orientation = mid-left
+  enable_scrolling = true
+  shadow = true
+  scale = 0.6
+  source = Get 25% off your first month%n%with the promo code: all-in-one
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 25
+  width = 258
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 87f4dbad-c44f-43bc-adee-7a16e8e823661690632234530
+  y = 109
+  alignment = centered
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  tick_delay = 0
+  is_async = false
+  x = 341
+  width = 70
+  action = custom_layout_element:fancymenu_customization_item_ticker
+  actionid = 7041fbff-4dad-4deb-a032-dc200ae9de271690797430306
+  y = 74
+  tick_mode = once_per_session
+  tickeraction_0_runscript = {"placeholder":"serverping","values":{"ip":"aio.playcdu.co"}}
+  height = 70
+}
+
