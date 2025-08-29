@@ -1,0 +1,20 @@
+{
+	id: "681b1eb0-4f13-32d3-a100-d588b84a0bb7"
+	type: "player"
+	player_name: "ludovicnnnn"
+	ranks: {
+		681b1eb0-4f13-32d3-a100-d588b84a0bb7: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "ludovicnnnn"
+		"ftbteams:color": "#595FFF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
