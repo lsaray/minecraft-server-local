@@ -39,21 +39,16 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 
-:: Start Tailscale
-start "" "C:\Path\To\Tailscale\tailscale.exe" up
-
 :: Start Minecraft server
-{java} -Xmx4096M -Xms1024M -jar forge-1.16.5-36.2.34.jar nogui
+C:/Users/andeo/AppData/Roaming/PrismLauncher/java/jre-legacy/bin/java.exe -Xmx4096M -Xms1024M -jar forge-1.16.5-36.2.34.jar nogui
 
 :: On script exit (Ctrl+C or window close), release lock and push
 :cleanup
 echo Releasing lock and shutting down...
 echo 0 > %LOCK_FILE%
 git add %LOCK_FILE%
+git add *
 git commit -m "Release server lock"
 git push
-
-:: Terminate Tailscale
-taskkill /f /im tailscale.exe >nul 2>&1
 
 endlocal
