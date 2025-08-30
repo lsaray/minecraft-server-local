@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "eed6298829f939f7b4674415acaaa67d"
+	name: "TST_"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
