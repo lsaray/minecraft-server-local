@@ -1,0 +1,20 @@
+{
+	id: "c38a2e73-93d9-3199-9855-597f00635bab"
+	type: "player"
+	player_name: "Kabhak78"
+	ranks: {
+		c38a2e73-93d9-3199-9855-597f00635bab: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Kabhak78"
+		"ftbteams:color": "#59D6FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

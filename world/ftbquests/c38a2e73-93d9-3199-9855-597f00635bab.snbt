@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "c38a2e7393d931999855597f00635bab"
+	name: "Kabhak78"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

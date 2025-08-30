@@ -5,9 +5,4 @@
 	extra_force_load_chunks: 0
 	chunk_load_offline: true
 	chunks: { }
-	original_claims: {
-		681b1eb0-4f13-32d3-a100-d588b84a0bb7: { }
-		97a02c4c-3d70-3966-9fe5-1301b3385215: { }
-		57a0f49f-9274-36bf-a209-68365eaabead: { }
-	}
 }
