@@ -1,0 +1,28 @@
+{
+	id: "a5ef2f79-e5e3-4f93-88bc-fd3864516a5b"
+	type: "party"
+	owner: "681b1eb0-4f13-32d3-a100-d588b84a0bb7"
+	ranks: {
+		97a02c4c-3d70-3966-9fe5-1301b3385215: "member"
+		57a0f49f-9274-36bf-a209-68365eaabead: "member"
+		681b1eb0-4f13-32d3-a100-d588b84a0bb7: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "xxprogamer68xx"
+		"ftbteams:color": "#FF9F59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756549046717L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"ludovicnnnn\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "681b1eb0-4f13-32d3-a100-d588b84a0bb7", date: 1756549056522L, text: "{\"color\":\"green\",\"text\":\"Invited Ectobiologiste\"}" }
+		{ from: "681b1eb0-4f13-32d3-a100-d588b84a0bb7", date: 1756549058405L, text: "{\"color\":\"green\",\"text\":\"Invited MinionX_\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756549061659L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"MinionX_\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756549068197L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Ectobiologiste\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

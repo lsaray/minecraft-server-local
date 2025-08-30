@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-08-30 12:27:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:30 +0200"
@@ -1847,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-30 12:12:33 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/gabbro_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:30 +0200"
@@ -2450,6 +2462,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/pink_clear_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:30 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-08-30 12:16:04 +0200"
     },
     "done": true
   },
@@ -3128,6 +3146,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-30 12:10:19 +0200"
     },
     "done": true
   },
@@ -7241,6 +7265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:33 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/axe_template": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:30 +0200"
@@ -7388,6 +7418,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_uranium_hammering": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:31 +0200"
+    },
+    "done": true
+  },
+  "silentgems:gem": {
+    "criteria": {
+      "get_item": "2025-08-30 12:23:05 +0200"
     },
     "done": true
   },
@@ -11579,6 +11615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:33 +0200"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:30 +0200"
@@ -13427,6 +13469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:33 +0200"
+    },
+    "done": true
+  },
   "botania:recipes/botania/speed_up_belt": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:28 +0200"
@@ -13634,6 +13682,12 @@
   "silentgear:recipes/silentgear/crimson_iron_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:33 +0200"
     },
     "done": true
   },
@@ -16445,6 +16499,12 @@
     },
     "done": true
   },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-08-30 12:19:21 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:31 +0200"
@@ -17620,6 +17680,12 @@
       "has_the_recipe": "2025-08-30 00:18:29 +0200"
     },
     "done": true
+  },
+  "silentgems:all_gems_classic": {
+    "criteria": {
+      "amber": "2025-08-30 12:23:05 +0200"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green_to_slab": {
     "criteria": {
@@ -20477,6 +20543,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-30 12:23:15 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/orange_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:29 +0200"
@@ -21014,6 +21086,12 @@
   "storagedrawers:recipes/storagedrawers/oak_trim": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:28 +0200"
+    },
+    "done": true
+  },
+  "silentgems:root": {
+    "criteria": {
+      "get_item": "2025-08-30 12:19:21 +0200"
     },
     "done": true
   },
@@ -22675,6 +22753,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-08-30 12:11:38 +0200",
       "minecraft:birch_forest_hills": "2025-08-30 00:21:20 +0200"
     },
     "done": false
@@ -23627,6 +23706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:32 +0200"
@@ -23756,6 +23841,12 @@
   "create:recipes/create.palettes/fancy_diorite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:29 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-08-30 12:23:05 +0200"
     },
     "done": true
   },
@@ -24146,6 +24237,12 @@
   "create:recipes/create.palettes/fancy_granite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:18:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-30 12:19:21 +0200"
     },
     "done": true
   },

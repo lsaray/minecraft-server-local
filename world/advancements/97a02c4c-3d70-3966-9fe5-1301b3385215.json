@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-08-30 12:14:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:37 +0200"
@@ -452,6 +458,12 @@
   "botania:recipes/botania/black_shiny_flower": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:37 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-08-30 12:14:53 +0200"
     },
     "done": true
   },
@@ -1847,6 +1859,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-30 12:12:27 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/gabbro_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:35 +0200"
@@ -3131,6 +3149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-30 12:05:58 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:32 +0200"
@@ -3628,6 +3652,12 @@
       "has_the_recipe": "2025-08-30 00:21:37 +0200"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-08-30 12:20:21 +0200"
+    },
+    "done": false
   },
   "refinedstorage:recipes/refinedstorage/fluid_grid/magenta_fluid_grid": {
     "criteria": {
@@ -5867,6 +5897,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-30 12:34:03 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_limestone_bricks_stairs_from_fancy_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:33 +0200"
@@ -7241,6 +7277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:27 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/axe_template": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:33 +0200"
@@ -7388,6 +7430,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_uranium_hammering": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:36 +0200"
+    },
+    "done": true
+  },
+  "silentgems:gem": {
+    "criteria": {
+      "get_item": "2025-08-30 12:22:20 +0200"
     },
     "done": true
   },
@@ -7924,6 +7972,12 @@
       "has_the_recipe": "2025-08-30 00:21:35 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-08-30 12:34:03 +0200"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
@@ -9221,6 +9275,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/iron_bridge": {
+    "criteria": {
+      "has_planks": "2025-08-30 12:21:57 +0200"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/brown_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:32 +0200"
@@ -9488,6 +9548,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-30 12:20:21 +0200"
     },
     "done": true
   },
@@ -11579,6 +11645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:27 +0200"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_disk_manipulator": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:35 +0200"
@@ -13229,6 +13301,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-30 12:30:11 +0200"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/glass/purple_clear_stained_glass_pane_from_panes": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:35 +0200"
@@ -13424,6 +13502,12 @@
   "botania:recipes/botania/metamorphic_fungal_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:27 +0200"
     },
     "done": true
   },
@@ -13634,6 +13718,12 @@
   "silentgear:recipes/silentgear/crimson_iron_ingot_from_nugget": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:27 +0200"
     },
     "done": true
   },
@@ -15215,6 +15305,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-30 12:21:57 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/sturdy_repair_kit": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:33 +0200"
@@ -16445,6 +16541,12 @@
     },
     "done": true
   },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-08-30 12:14:03 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:37 +0200"
@@ -17273,6 +17375,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-30 12:30:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:35 +0200"
@@ -17620,6 +17728,19 @@
       "has_the_recipe": "2025-08-30 00:21:37 +0200"
     },
     "done": true
+  },
+  "silentgems:all_gems_classic": {
+    "criteria": {
+      "heliodor": "2025-08-30 12:39:38 +0200",
+      "amber": "2025-08-30 12:22:56 +0200",
+      "amethyst": "2025-08-30 12:35:50 +0200",
+      "ruby": "2025-08-30 12:22:20 +0200",
+      "tanzanite": "2025-08-30 12:39:36 +0200",
+      "peridot": "2025-08-30 12:37:46 +0200",
+      "opal": "2025-08-30 12:22:25 +0200",
+      "sapphire": "2025-08-30 12:35:20 +0200"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_green_to_slab": {
     "criteria": {
@@ -20477,6 +20598,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-30 12:14:21 +0200"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_fluid_grid": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:32 +0200"
@@ -21014,6 +21141,12 @@
   "storagedrawers:recipes/storagedrawers/oak_trim": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:36 +0200"
+    },
+    "done": true
+  },
+  "silentgems:root": {
+    "criteria": {
+      "get_item": "2025-08-30 12:14:03 +0200"
     },
     "done": true
   },
@@ -22607,6 +22740,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-08-30 12:20:21 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/grip_blueprint": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:33 +0200"
@@ -23280,6 +23419,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2025-08-30 12:30:29 +0200"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:37 +0200"
@@ -23628,6 +23773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-30 12:12:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:32 +0200"
@@ -23757,6 +23908,12 @@
   "create:recipes/create.palettes/fancy_diorite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:36 +0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-08-30 12:22:20 +0200"
     },
     "done": true
   },
@@ -24147,6 +24304,12 @@
   "create:recipes/create.palettes/fancy_granite_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-30 00:21:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-30 12:14:02 +0200"
     },
     "done": true
   },

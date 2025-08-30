@@ -1,0 +1,18 @@
+{
+	id: "57a0f49f-9274-36bf-a209-68365eaabead"
+	type: "player"
+	player_name: "MinionX_"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "MinionX_"
+		"ftbteams:color": "#EA59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

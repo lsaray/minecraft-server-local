@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "57a0f49f927436bfa20968365eaabead"
+	name: "MinionX_"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

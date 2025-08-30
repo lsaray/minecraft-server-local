@@ -5,9 +5,19 @@
 	can_edit: false
 	lock: false
 	auto_pin: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		0000000000000006: 1
+	}
+	started: {
+		0000000000000005: 1756548988767L
+		0000000000000006: 1756548988767L
+		0000000000000001: 1756548988767L
+		0000000000000002: 1756548988767L
+	}
+	completed: {
+		0000000000000005: 1756548988767L
+		0000000000000006: 1756548988767L
+	}
 	claimed_rewards: { }
 	pinned_quests: [ ]
 }
