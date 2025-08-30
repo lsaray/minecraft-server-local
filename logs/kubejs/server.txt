@@ -1,40 +1,40 @@
-[19:09:50] [INFO ] Hello, World! (You will see this line every time server resources reload)
-[19:09:50] [INFO ] Loaded script server_scripts:script.js in 0.004 s
-[19:09:50] [INFO ] Loaded 1/1 KubeJS server scripts in 0.011 s
-[19:09:50] [INFO ] Scripts loaded
-[19:09:50] [INFO ] Scanning recipes...
-[19:09:51] [INFO ] [blocks] Found 763 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [blocks] Found 763 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [items] Found 1465 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [items] Found 1465 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [fluids] Found 141 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [fluids] Found 141 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [entity_types] Found 37 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [entity_types] Found 37 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
-[19:09:51] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
-[19:09:52] [WARN ] Failed to parse recipe 'productivebees:forestry/centrifuge/honey_comb[forestry:centrifuge]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: forestry:centrifuge
-[19:09:52] [WARN ] Failed to parse recipe productivebees:forestry/centrifuge/honey_comb[forestry:centrifuge]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forestry:centrifuge'
-[19:09:52] [WARN ] Failed to parse recipe 'farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
-[19:09:52] [WARN ] Failed to parse recipe farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
-[19:09:52] [WARN ] Failed to parse recipe 'mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
-[19:09:52] [WARN ] Failed to parse recipe mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
-[19:09:52] [INFO ] Found 14045 recipes and 0 failed recipes in 751.2 ms
-[19:09:52] [INFO ] Posted recipe events in 1.945 ms
-[19:09:52] [INFO ] Modified & removed recipes in 255.6 ms
-[19:09:52] [INFO ] Added recipes in 473.9 μs
-[19:09:52] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
-[19:09:53] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[19:09:53] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[19:21:58] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[19:21:58] [INFO ] Loaded script server_scripts:script.js in 0.003 s
+[19:21:58] [INFO ] Loaded 1/1 KubeJS server scripts in 0.009 s
+[19:21:58] [INFO ] Scripts loaded
+[19:21:59] [INFO ] Scanning recipes...
+[19:22:00] [INFO ] [blocks] Found 763 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [blocks] Found 763 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [items] Found 1465 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [items] Found 1465 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [fluids] Found 141 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [fluids] Found 141 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [entity_types] Found 37 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [entity_types] Found 37 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[19:22:00] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[19:22:00] [WARN ] Failed to parse recipe 'productivebees:forestry/centrifuge/honey_comb[forestry:centrifuge]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: forestry:centrifuge
+[19:22:00] [WARN ] Failed to parse recipe productivebees:forestry/centrifuge/honey_comb[forestry:centrifuge]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forestry:centrifuge'
+[19:22:00] [WARN ] Failed to parse recipe 'farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
+[19:22:00] [WARN ] Failed to parse recipe farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
+[19:22:00] [WARN ] Failed to parse recipe 'mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
+[19:22:00] [WARN ] Failed to parse recipe mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
+[19:22:00] [INFO ] Found 14045 recipes and 0 failed recipes in 630.3 ms
+[19:22:00] [INFO ] Posted recipe events in 1.587 ms
+[19:22:01] [INFO ] Modified & removed recipes in 268.8 ms
+[19:22:01] [INFO ] Added recipes in 561.2 μs
+[19:22:01] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[19:22:02] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[19:22:02] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects

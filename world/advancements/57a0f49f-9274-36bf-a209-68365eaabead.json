@@ -3662,7 +3662,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-30 12:18:36 +0200",
+      "minecraft:vindicator": "2025-08-30 19:42:14 +0200",
       "minecraft:spider": "2025-08-30 12:24:13 +0200",
+      "minecraft:vex": "2025-08-30 19:28:48 +0200",
       "minecraft:zombie": "2025-08-30 13:58:27 +0200"
     },
     "done": false
@@ -10120,6 +10122,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_the_recipe": "2025-08-30 12:07:38 +0200"
+    },
+    "done": true
+  },
+  "silentgems:soul_gem": {
+    "criteria": {
+      "get_item": "2025-08-30 19:28:11 +0200"
     },
     "done": true
   },
@@ -22802,6 +22810,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-08-30 12:08:53 +0200",
       "minecraft:birch_forest_hills": "2025-08-30 12:07:40 +0200",
+      "minecraft:swamp": "2025-08-30 19:45:14 +0200",
       "minecraft:plains": "2025-08-30 14:01:47 +0200"
     },
     "done": false

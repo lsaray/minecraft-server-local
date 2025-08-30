@@ -1,0 +1,9 @@
+
+[Messages]
+	#Language of mod messages
+	localization = "en"
+	#Display mod messages
+	display = true
+	#Mineskin api key
+	key = ""
+
