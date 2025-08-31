@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "botanypots:husbandry/botany_pot": {
+    "criteria": {
+      "get_botany_pot": "2025-08-31 10:34:33 +0200"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/information_screen": {
     "criteria": {
       "has_the_recipe": "2025-08-30 19:07:34 +0200"
@@ -3663,6 +3669,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-30 19:24:16 +0200",
       "minecraft:evoker": "2025-08-30 19:35:27 +0200",
+      "minecraft:slime": "2025-08-31 11:04:47 +0200",
       "minecraft:witch": "2025-08-30 19:31:59 +0200",
       "minecraft:husk": "2025-08-30 19:24:42 +0200",
       "minecraft:stray": "2025-08-30 19:38:53 +0200",
@@ -5285,6 +5292,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-08-31 10:44:23 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_white_to_slab": {
     "criteria": {
       "has_the_recipe": "2025-08-30 19:07:29 +0200"
@@ -6520,6 +6533,12 @@
       "has_the_recipe": "2025-08-30 19:07:28 +0200"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-08-31 11:04:48 +0200"
+    },
+    "done": false
   },
   "immersiveengineering:recipes/misc/crafting/string": {
     "criteria": {
@@ -7870,6 +7889,12 @@
       "has_the_recipe": "2025-08-30 19:07:35 +0200"
     },
     "done": true
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_catalyst": "2025-08-31 10:49:25 +0200"
+    },
+    "done": false
   },
   "extrastorage:recipes/extrastorage_tab/part/storagepart_256k": {
     "criteria": {
@@ -17387,6 +17412,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-31 10:44:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2025-08-30 19:07:31 +0200"
@@ -17743,7 +17774,9 @@
       "amber": "2025-08-30 19:41:35 +0200",
       "onyx": "2025-08-30 19:37:36 +0200",
       "agate": "2025-08-30 19:34:00 +0200",
+      "amethyst": "2025-08-31 11:06:15 +0200",
       "tanzanite": "2025-08-30 19:32:13 +0200",
+      "ruby": "2025-08-31 10:47:19 +0200",
       "peridot": "2025-08-30 19:27:11 +0200",
       "topaz": "2025-08-30 19:15:05 +0200",
       "opal": "2025-08-30 19:15:06 +0200"
@@ -22778,6 +22811,12 @@
     },
     "done": true
   },
+  "astralsorcery:rock_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2025-08-31 11:11:48 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/jungle_window": {
     "criteria": {
       "has_the_recipe": "2025-08-30 19:07:33 +0200"
@@ -23427,6 +23466,12 @@
       "has_the_recipe": "2025-08-30 19:07:37 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mushroom_stew": "2025-08-31 10:44:23 +0200"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
